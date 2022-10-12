@@ -64,10 +64,6 @@ def add_new_entry(entries):
       writer.writerow(new_entry)
 
 
-# ===========================================
-# =    Do Not Modify Anything Below Here    =
-# ===========================================
-
 def get_menu_choice():
   choice = None
   
